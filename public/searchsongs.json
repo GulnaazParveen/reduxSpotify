@@ -1,0 +1,26 @@
+[
+  {  "id":1,
+    "songName": "Maan Meri Jaan",
+    "artistName": "King",
+    "image": "/covers/maan-meri-jaan.jpg",
+    "audio": "/song/1.mp3"
+  },
+  {   "id":2,
+    "songName": "Dandelions",
+    "artistName": "Ruth B.",
+    "image": "/covers/dandelions.jpg",
+    "audio": "/song/2.mp3"
+  },
+  {   "id":3,
+    "songName": "Tu Aake Dekhle",
+    "artistName": "King",
+    "image": "/covers/tu-aake-dekhle.jpg",
+    "audio": "/song/3.mp3"
+  },
+  {    "id":4,
+    "songName": "Hangover",
+    "artistName": "Taio Cruz",
+    "image": "/covers/hangover.jpg",
+    "audio": "/song/4.mp3"
+  }
+]

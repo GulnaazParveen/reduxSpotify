@@ -1,0 +1,98 @@
+[
+  {
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKoyCC3Bcg5-w5b5XBc0A_pwI6DNF0ylTzw&s",
+    "songName": "Blinding Lights",
+    "artistName": "The Weeknd",
+    "albumName": "After Hours"
+  },
+  {
+    "image":"https://shapeofyoushow.com/fbcover.jpg" ,
+    "songName": "Shape of You",
+    "artistName": "Ed Sheeran",
+    "albumName": "÷ (Divide)"
+  },
+  {
+    "image":"https://m.timesofindia.com/photo/65334688/size-126571/65334688.jpg",
+    "songName": "Rockstar",
+    "artistName": "DaBaby",
+    "albumName": "Blame It on Baby"
+  },
+  {
+    "image":
+      "https://i1.sndcdn.com/artworks-NTWumskIAtzxndKO-yz1ryA-t500x500.jpg",
+    "songName": "Stay",
+    "artistName": "The Kid LAROI & Justin Bieber",
+    "albumName": "Stay"
+  },
+  {
+    "image":"https://i.scdn.co/image/ab67616d0000b273769162fb0cc974c75d37b635",
+    "songName": "Montero ",
+    "artistName": "Lil Nas X",
+    "albumName": "Montero"
+  },
+  {
+     "image":"https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "songName": "Drivers License",
+    "artistName": "Olivia Rodrigo",
+    "albumName": "SOUR"
+  },
+
+  {
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLam4gNh_lrkObH81UHGNL9RbqJn_yQNYpA&s",
+    "songName": "Mood",
+    "artistName": "24kGoldn ft. Iann Dior",
+    "albumName": "El Dorado"
+  },
+  {
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelAPnUO39G4Qh3_cGeXORJjGvg7JfGJuS6A&s",
+    "songName": "Tum Hi Ho",
+    "artistName": "Arijit Singh",
+    "albumName": "Aashiqui 2"
+  },
+  {
+    "image":"https://i.scdn.co/image/ab67616d0000b273e23347d1b3a9da365c1addfc",
+    "songName": "Tera Hone Laga Hoon",
+    "artistName": "Atif Aslam, Alka Yagnik",
+    "albumName": "Ajab Prem Ki Ghazab Kahani"
+  },
+  {
+    "image": "https://i.ytimg.com/vi/yrxGdYfwb8A/sddefault.jpg",
+    "songName": "Kal Ho Naa Ho",
+    "artistName": "Sonu Nigam, Alka Yagnik",
+    "albumName": "Kal Ho Naa Ho"
+  },
+  {
+    "image":
+      "https://bollynewsuk.com/wp-content/uploads/2013/06/jeene-laga-hoon.jpg",
+    "songName": "Jeene Laga Hoon",
+    "artistName": "Atif Aslam, Shreya Ghoshal",
+    "albumName": "Ramaiya Vastavaiya"
+  },
+  {
+    "image":
+      "https://i1.sndcdn.com/artworks-YSbyYVyz7OXMwj9U-toIlTA-t500x500.jpg",
+    "songName": "Shayad",
+    "artistName": "Arijit Singh",
+    "albumName": "Love Aaj Kal"
+  },
+  {
+    "image":
+      "https://c.saavncdn.com/552/Ghungroo-Toot-Gaye-Hindi-2020-20200427194526-500x500.jpg",
+    "songName": "Ghungroo",
+    "artistName": "Arijit Singh, Shilpa Rao",
+    "albumName": "War"
+  },
+  {
+    "image": "https://i.ytimg.com/vi/UL54Dx3OvTw/maxresdefault.jpg",
+    "songName": "Raabta",
+    "artistName": "Arijit Singh",
+    "albumName": "Agent Vinod"
+  },
+  {
+    "image":
+      "https://c.saavncdn.com/540/Humpty-Sharma-Ki-Dulhania-Hindi-2014-20190618095042-500x500.jpg",
+    "songName": "Samjhawan",
+    "artistName": "Arijit Singh, Shreya Ghoshal",
+    "albumName": "Humpty Sharma Ki Dulhania"
+  }
+]
